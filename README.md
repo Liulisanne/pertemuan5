@@ -1,2 +1,2 @@
-# pertemuan5
-WP 2
+# WP2_Lisanne
+Tugas Web Programming 2
